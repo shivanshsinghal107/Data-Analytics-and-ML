@@ -1,2 +1,2 @@
 # Data-Analytics
-Data Analysis of different Datasets
+Python Projects of Data Science using Data Analytics and Machine Learning
